@@ -1,6 +1,6 @@
 # Java-Assignment-009
 
-## Part 1 - Assignment-009
+## Part 1 - Assignment
 
 NOTE: The use of recursive method calls is not allowed.
 
@@ -56,4 +56,9 @@ NOTE: The use of recursive method calls is not allowed.
     * Grabs an int from the terminal using the Scanner object.
     * Tests the number entered and returns true if the int is a 1 and false if it is something else.
 
-## Part 2 - Turn in
+## Part 2 - Submission
+
+* Commit your working code
+* Push it to your Remote/origin branch (i.e. GitHub)
+* Then issue a Pull request to the instructor branch
+* Make sure to save the Pull request URL and submit it for lab credit.
